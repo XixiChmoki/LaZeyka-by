@@ -1,0 +1,1 @@
+{"version":3,"sources":["name.less","name.css"],"names":[],"mappings":"AAAA,YACC,MAAA,KCGD,UACE,MAAA","file":"name.css","sourcesContent":[".colorBlack{\r\n\tcolor: #000000;\r\n}\r\n.colorRed{\r\n\tcolor: red;\r\n}",".colorBlack {\n  color: #000000;\n}\n\n.colorRed {\n  color: red;\n}"]}

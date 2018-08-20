@@ -1,0 +1,2 @@
+.blok{position:relative}.overlay{display:none;height:auto;left:-10%;position:absolute;top:-50%;width:auto;z-index:999}.overlay .overlay_container{display:table-cell;vertical-align:middle}.overlay_container img{background-color:#ab5;padding:15px;-webkit-border-radius:10px;-moz-border-radius:10px}.overlay:target{display:table}
+/*# sourceMappingURL=imgbig.css.map */
