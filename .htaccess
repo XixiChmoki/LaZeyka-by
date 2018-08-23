@@ -1119,5 +1119,5 @@ Redirect 301 /adam-eve-fifth.html https://lazeyka.by/adam_and_eve_fifth.html [R=
 Redirect 301 /adam-eve-sixth.html https://lazeyka.by/adam_and_eve_sixth.html [R=301,L]
 Redirect 301 /adam-eve-seventh.html https://lazeyka.by/adam_and_eve_seventh.html [R=301,L]
 
-RewriteCond %{REQUEST_URI} ^adam-eve-first.html$
+RewriteCond %{REQUEST_URI} ^/adam-eve-first.html/$
 RewriteRule ^.*$ https://lazeyka.by/adam_and_eve_first.html? [R=301,L]
