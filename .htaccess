@@ -8,7 +8,7 @@ RewriteRule ^(.*)$ https://lazeyka.by/$1 [R=301,L]
 SetEnvIf X_FORWARDED_PROTO https HTTPS=on
 
 RewriteCond %{QUERY_STRING} ^/adam-eve-first.html$
-RewriteRule ^index.php$  https://lazeyka.by/adam_and_eve_first.html  [R=301,L]
+RewriteRule ^index.php$  https://lazeyka.by/adam_and_eve_first.html?  [R=301,L]
 
 RewriteCond %{HTTP_USER_AGENT} wget [NC]
 RewriteRule .* - [F]
