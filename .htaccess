@@ -7,7 +7,6 @@ RewriteCond %{HTTP:HTTPS} !=on [NC]
 RewriteRule ^(.*)$ https://lazeyka.by/$1 [R=301,L]
 SetEnvIf X_FORWARDED_PROTO https HTTPS=on
 
-
 RewriteCond %{HTTP_USER_AGENT} wget [NC]
 RewriteRule .* - [F]
 
@@ -1101,22 +1100,3 @@ Redirect 301 /wp-content/uploads/2018/07/rodovaya_kniga_rodovoy_les_01_049.jpg h
 Redirect 301 /wp-content/uploads/2018/07/rodovaya_kniga_rodovoy_les_01_053.jpg https://lazeyka.by/images/rodovaya_kniga_rodovoy_les/001/rodovaya_kniga_rodovoy_les_01_053.jpg [R=301,L]
 
 Redirect 301 /wp-content/uploads/2018/07/rodovaya_kniga_rodovoy_les_02_000.jpg https://lazeyka.by/images/rodovaya_kniga_rodovoy_les/002/rodovaya_kniga_rodovoy_les_02_001.jpg [R=301,L]
-
-Redirect 301 /anastasiya_romanova_first.html https://lazeyka.by/rodoslovnaya_anastasii_romanovoy_first.html [R=301,L]
-Redirect 301 /anastasiya_romanova_second.html https://lazeyka.by/rodoslovnaya_anastasii_romanovoy_second.html [R=301,L]
-Redirect 301 /anastasiya_romanova_third.html https://lazeyka.by/rodoslovnaya_anastasii_romanovoy_third.html [R=301,L]
-Redirect 301 /anastasiya_romanova_fourth.html https://lazeyka.by/rodoslovnaya_anastasii_romanovoy_fourth.html [R=301,L]
-Redirect 301 /anastasiya_romanova_fifth.html https://lazeyka.by/rodoslovnaya_anastasii_romanovoy_fifth.html [R=301,L]
-Redirect 301 /anastasiya_romanova_sixth.html https://lazeyka.by/rodoslovnaya_anastasii_romanovoy_sixth.html [R=301,L]
-Redirect 301 /anastasiya_romanova_seventh.html https://lazeyka.by/rodoslovnaya_anastasii_romanovoy_seventh.html [R=301,L]
-Redirect 301 /anastasiya_romanova_eighth.html https://lazeyka.by/rodoslovnaya_anastasii_romanovoy_eighth.html [R=301,L]
-Redirect 301 /anastasiya_romanova_ninth.html https://lazeyka.by/rodoslovnaya_anastasii_romanovoy_ninth.html [R=301,L]
-
-RewriteRule^(.*)adam-eve-first.html https://lazeyka.by/adam_and_eve_firsts.html [R=301,L]
-Redirect 301 /adam-eve-second.html https://lazeyka.by/adam_and_eve_second.html [R=301,L]
-Redirect 301 /adam-eve-third.html https://lazeyka.by/adam_and_eve_third.html [R=301,L]
-Redirect 301 /adam-eve-fourth.html https://lazeyka.by/adam_and_eve_fourth.html [R=301,L]
-Redirect 301 /adam-eve-fifth.html https://lazeyka.by/adam_and_eve_fifth.html [R=301,L]
-Redirect 301 /adam-eve-sixth.html https://lazeyka.by/adam_and_eve_sixth.html [R=301,L]
-Redirect 301 /adam-eve-seventh.html https://lazeyka.by/adam_and_eve_seventh.html [R=301,L]
-
