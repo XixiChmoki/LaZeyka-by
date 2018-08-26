@@ -223,11 +223,11 @@
 			<!-- Social button Start-->
 				<div class="main__right__social">
 	<div class="main__right__social__soc">	
-		<a target="_blank" rel="noopener" onclick="popupWin = window.open(this.href, 'vkontakte', 'width=550,height=400,top='+((screen.height-400)/2)+',left='+((screen.width-550)/2)+',location=no'); popupWin.focus(); return false;" href="http://vk.com/share.php?url=https://lazeyka.by/"><img src="img/soc/vk.png" alt=''></a>
-		<a target="_blank" rel="noopener" onclick="popupWin = window.open(this.href, 'vkontakte', 'width=550,height=400,top='+((screen.height-400)/2)+',left='+((screen.width-550)/2)+',location=no'); popupWin.focus(); return false;" href="https://www.facebook.com/sharer/sharer.php?u=https://lazeyka.by/"><img src="img/soc/facebook.png" alt=''></a>
-		<a target="_blank" rel="noopener" onclick="popupWin = window.open(this.href, 'vkontakte', 'width=550,height=400,top='+((screen.height-400)/2)+',left='+((screen.width-550)/2)+',location=no'); popupWin.focus(); return false;" href="https://twitter.com/share?url=https://lazeyka.by/&text=Главная"><img src="img/soc/twitter_but_rss.png" alt=''></a>
-		<a target="_blank" rel="noopener" onclick="popupWin = window.open(this.href, 'vkontakte', 'width=550,height=400,top='+((screen.height-400)/2)+',left='+((screen.width-550)/2)+',location=no'); popupWin.focus(); return false;" href="https://plus.google.com/share?url=https://lazeyka.by/"><img src="img/soc/googleplus.png" alt=''></a>
-		<a target="_blank" rel="noopener" onclick="popupWin = window.open(this.href, 'vkontakte', 'width=550,height=400,top='+((screen.height-400)/2)+',left='+((screen.width-550)/2)+',location=no'); popupWin.focus(); return false;" href="http://www.odnoklassniki.ru/dk?st.cmd=addShare&st.s=1&st._surl=https://lazeyka.by/&st.comments=Главная"><img src="img/soc/odnoklasniki.png" alt=''></a>
+		<a target="_blank" onclick="popupWin = window.open(this.href, 'vkontakte', 'width=550,height=400,top='+((screen.height-400)/2)+',left='+((screen.width-550)/2)+',location=no'); popupWin.focus(); return false;" href="http://vk.com/share.php?url=https://lazeyka.by/"><img src="img/soc/vk.png" alt=''></a>
+		<a target="_blank" onclick="popupWin = window.open(this.href, 'vkontakte', 'width=550,height=400,top='+((screen.height-400)/2)+',left='+((screen.width-550)/2)+',location=no'); popupWin.focus(); return false;" href="https://www.facebook.com/sharer/sharer.php?u=https://lazeyka.by/"><img src="img/soc/facebook.png" alt=''></a>
+		<a target="_blank" onclick="popupWin = window.open(this.href, 'vkontakte', 'width=550,height=400,top='+((screen.height-400)/2)+',left='+((screen.width-550)/2)+',location=no'); popupWin.focus(); return false;" href="https://twitter.com/share?url=https://lazeyka.by/&text=Главная"><img src="img/soc/twitter_but_rss.png" alt=''></a>
+		<a target="_blank" onclick="popupWin = window.open(this.href, 'vkontakte', 'width=550,height=400,top='+((screen.height-400)/2)+',left='+((screen.width-550)/2)+',location=no'); popupWin.focus(); return false;" href="https://plus.google.com/share?url=https://lazeyka.by/"><img src="img/soc/googleplus.png" alt=''></a>
+		<a target="_blank" onclick="popupWin = window.open(this.href, 'vkontakte', 'width=550,height=400,top='+((screen.height-400)/2)+',left='+((screen.width-550)/2)+',location=no'); popupWin.focus(); return false;" href="http://www.odnoklassniki.ru/dk?st.cmd=addShare&st.s=1&st._surl=https://lazeyka.by/&st.comments=Главная"><img src="img/soc/odnoklasniki.png" alt=''></a>
 	</div>
 	<div>
 		<p class="main__right__social__like">Если вам понравятся наши статьи, не забудьте запостить их. Спасибо!!!</p>
@@ -252,29 +252,29 @@
 	</div>
 </footer>
 
-<script src="js/jquery.js"></script>
+$(function(){
+    <script src="js/jquery.js"></script>
 <script src="js/script.js"></script>
+<script src="js/simplebox_util.js"></script>
 
 <!-- Начало. Скрипт для увеличения картинок -->
-<script src="https://lazeyka.by/js/simplebox_util.js"></script>
-
 <script>
-	(function(){
-	var boxes=[],els,i,l;
-	if(document.querySelectorAll){
-	els=document.querySelectorAll('a[rel=simplebox]');	
-	Box.getStyles('simplebox_css','https://lazeyka.by/css/simplebox.css');
-	Box.getScripts('simplebox_js','https://lazeyka.by/js/simplebox.js',function(){
-	simplebox.init();
-	for(i=0,l=els.length;i<l;++i)
-	simplebox.start(els[i]);
-	simplebox.start('a[rel=simplebox_group]');			
-	});
-	}
-	})();
+    (function(){
+    var boxes=[],els,i,l;
+    if(document.querySelectorAll){
+    els=document.querySelectorAll('a[rel=simplebox]');  
+    Box.getStyles('simplebox_css','https://lazeyka.by/css/simplebox.css');
+    Box.getScripts('simplebox_js','https://lazeyka.by/js/simplebox.js',function(){
+    simplebox.init();
+    for(i=0,l=els.length;i<l;++i)
+    simplebox.start(els[i]);
+    simplebox.start('a[rel=simplebox_group]');          
+    });
+    }
+    })();
 </script>
 <!-- Конец. Скрипт для увеличения картинок -->
-		
+        
 <!-- Начало. Скрипт для Google Analytics -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-97854387-1"></script>
@@ -328,6 +328,8 @@
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
+});
+
 		
 
     </body>
