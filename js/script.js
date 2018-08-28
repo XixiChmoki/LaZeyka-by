@@ -12,13 +12,6 @@ $(function(){
 	});
 	/* Выпадающее меню Финиш*/
 	
-	
-	/* Выпадающий слайдер статей Начало*/
-	/* $('.main__right__section__title').click(function(){
-		$(this).next().slideToggle(300);
-	}); */
-	/* Выпадающий слайдер статей Финиш*/
-	
 	/* Выпадающий слайдер статей Начало - работает после Ajax подгрузки контента*/
 	$('body').on('click', '.main__right__section__title', function(){
 		$(this).next().slideToggle(300);
@@ -49,5 +42,5 @@ $(function(){
     s.parentNode.insertBefore(gcse, s);
   })();
 	/* Google search Finish*/
-	
+
 });
