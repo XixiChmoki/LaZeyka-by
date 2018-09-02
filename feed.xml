@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lazeyka</title>
+    <description>Генеалогия, Родовое Дерево, Родовая Книга, Родовой Лес — что это, а точнее — Зачем? Мы решили по новому взглянуть на эти понятия с учетом того, что мы уже знаем о прошлом.</description>
+    <link>https://lazeyka.by</link>
+    <atom:link href="https://lazeyka.by/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Родословная книга Анастасии</title>
+        <description><![CDATA[
+          <a href="https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html"><img width="100%" src="https://lazeyka.by/images/rodovaya_kniga_rodovoy_les/002/rodovaya_kniga_rodovoy_les_02_001.jpg"></a>
+          Анастасия Романова – последняя русская княжна. Младшая дочь Николая и Александры. Родная сестра Ольги, Татьяны, Марии и Алексея Романовых. На примере этой семьи мы продолжим примерное написание Родословной книги.
+          ]]></description>
+        <pubDate>Tue, 17 Jul 2018 00:00:00 +0300</pubDate>
+        <link>https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</link>
+        <guid isPermaLink="true">https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</guid>
+      </item>
+    
+  </channel>
+</rss>
+<!--<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Генеалогия, Родовое Дерево, Родовая Книга, Родовой Лес</title>
@@ -28,4 +49,4 @@
       
     
   </channel>
-</rss>
+</rss>-->
