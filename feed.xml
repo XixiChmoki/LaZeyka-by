@@ -8,9 +8,12 @@
       
         <item>
           <title>Родословная книга Анастасии</title>
-          <img href="https://lazeyka.by/images/rodovaya_kniga_rodovoy_les/002/rodovaya_kniga_rodovoy_les_02_001.jpg"/>
+          <img src="https://lazeyka.by/images/rodovaya_kniga_rodovoy_les/002/rodovaya_kniga_rodovoy_les_02_001.jpg" />
           <description>Анастасия Романова – последняя русская княжна. Младшая дочь Николая и Александры. Родная сестра Ольги, Татьяны, Марии и Алексея Романовых. На примере этой семьи мы продолжим примерное написание Родословной книги.</description>
           <pubDate>2018-07-17T00:00:00+03:00</pubDate>
+          <author><name>
+            Капитан Славик
+          </name></author>
           <link>https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</link>
           <guid isPermaLink="true">https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</guid>
         </item>
