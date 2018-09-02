@@ -2,23 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Генеалогия, Родовое Дерево, Родовая Книга, Родовой Лес</title>
-    <description>Генеалогия, Родовое Дерево, Родовая Книга, Родовой Лес — что это, а точнее — Зачем? Мы решили по новому взглянуть на эти понятия с учетом того, что мы уже знаем о прошлом.</description>
     <link>https://lazeyka.by</link>
+    <description>Генеалогия, Родовое Дерево, Родовая Книга, Родовой Лес — что это, а точнее — Зачем? Мы решили по новому взглянуть на эти понятия с учетом того, что мы уже знаем о прошлом.</description>
+    <image>
+	     <url>https://lazeyka.byimages/rodovoye_derevo_kiyevskoy_rusi/007/rodovoye_derevo_kiyevskoy_rusi_07_007.jpg</url>
+	     <title>Генеалогия, Родовое Дерево, Родовая Книга, Родовой Лес</title>
+	     <link>https://lazeyka.by</link>
+   	</image>
     
       
+       	<image>
+	        <url>https://lazeyka.by/images/rodovaya_kniga_rodovoy_les/002/rodovaya_kniga_rodovoy_les_02_001.jpg</url>
+	        <title>Родословная книга Анастасии</title>
+	        <link>https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</link>
+      	</image>
         <item>
           <title>Родословная книга Анастасии</title>
-          <image>
-            <url>https://lazeyka.by/images/rodovaya_kniga_rodovoy_les/002/rodovaya_kniga_rodovoy_les_02_001.jpg</url>
-            <title>Родословная книга Анастасии</title>
-            <link>https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</link>
-          </image>
-          <description>Анастасия Романова – последняя русская княжна. Младшая дочь Николая и Александры. Родная сестра Ольги, Татьяны, Марии и Алексея Романовых. На примере этой семьи мы продолжим примерное написание Родословной книги.</description>
-          <pubDate>2018-07-17T00:00:00+03:00</pubDate>
-          <author><name>
-            Капитан Славик
-          </name></author>
           <link>https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</link>
+          <description>Анастасия Романова – последняя русская княжна. Младшая дочь Николая и Александры. Родная сестра Ольги, Татьяны, Марии и Алексея Романовых. На примере этой семьи мы продолжим примерное написание Родословной книги.</description>
+          <category>rodovaya_kniga_rodovoy_les</category>
+          <pubDate>2018-07-17T00:00:00+03:00</pubDate>
+          <author>Капитан Славик</author>
           <guid isPermaLink="true">https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</guid>
         </item>
       
