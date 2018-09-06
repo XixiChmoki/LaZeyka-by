@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:yandex="http://news.yandex.ru"
+<rss version="2.0" xmlns:yandex="http://news.yandex.ru"
     xmlns:media="http://search.yahoo.com/mrss/"
     xmlns:turbo="http://turbo.yandex.ru">
   <channel>
-    <title>Генеалогия, Родовое Дерево, Родовая Книга, Родовой Лес</title>
-    <link>https://lazeyka.by</link>
-    <description>Генеалогия, Родовое Дерево, Родовая Книга, Родовой Лес — что это, а точнее — Зачем? Мы решили по новому взглянуть на эти понятия с учетом того, что мы уже знаем о прошлом.</description>
-    <atom:link href="https://lazeyka.by/rss-turbo.xml" rel="self" type="application/rss+xml" />
     
-      <item>
-        <title turbo="true">Родословная книга Анастасии</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;&lt;h1&gt;Родословная книга Анастасии&lt;/h1&gt;&lt;/div&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;&lt;h1&gt;Родословная книга Анастасии&lt;/h1&gt;&lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovaya_kniga_rodovoy_les/002/rodovaya_kniga_rodovoy_les_02_001.jpg&quot; alt=&quot;Родословная книга Анастасии&quot; title='Родословная книга Анастасии'&gt;
 &lt;h2&gt;&lt;span class=&quot;post__desc&quot;&gt;Анастасия Романова – последняя русская княжна. Младшая дочь Николая и Александры. Родная сестра Ольги, Татьяны, Марии и Алексея Романовых. На примере этой семьи мы продолжим примерное написание Родословной книги.&lt;/span&gt;&lt;/h2&gt;
 &lt;hr /&gt;
@@ -23,16 +20,15 @@
 &lt;/div&gt;
 
 &lt;p&gt;&lt;strong class=&quot;offers&quot;&gt;Статья готовится к публикации...&lt;/strong&gt;&lt;/p&gt;
-          ]]></description>
-        <pubDate>Tue, 17 Jul 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Родовая книга Вячеслава</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;&lt;h1&gt;Родовая книга Вячеслава&lt;/h1&gt;&lt;/div&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovaya_kniga_rodovoy_les_first.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;&lt;h1&gt;Родовая книга Вячеслава&lt;/h1&gt;&lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovaya_kniga_rodovoy_les/001/rodovaya_kniga_rodovoy_les_01_001.jpg&quot; alt=&quot;Родовая книга Вячеслава&quot; title='Родовая книга Вячеслава'&gt;
 &lt;h2&gt;&lt;span class=&quot;post__desc&quot;&gt;Вячеслав — князь Смоленский, младший сын Ярослава Мудрого и Анны Болгарской. Родной брат Святослава Черниговского, Анастасии Венгерской и Анны Французской. На примере этой семьи мы рассмотрим примерное написание Родовой книги.&lt;/span&gt;&lt;/h2&gt;
 &lt;hr /&gt;
@@ -508,16 +504,15 @@
 &lt;/a&gt;
 &lt;div class=&quot;pictTitle&quot;&gt;Семья Вячеслава Ярославича и частичная Родословная его детей (Вышеславы и Бориса).&lt;/div&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/rodovaya_kniga_rodovoy_les_second.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Mon, 16 Jul 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovaya_kniga_rodovoy_les_first.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovaya_kniga_rodovoy_les_first.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Семь поколений предков</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_fifth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Семь поколений предков&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovaya_kniga_ili_rodoslovnaya/005/rodovaya_kniga_ili_rodoslovnaya_05_001.jpg&quot; alt=&quot;Семь поколений предков&quot; title='Семь поколений предков'&gt;
@@ -974,16 +969,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;linkOff&quot;&gt;http://sadsezon.com/sad/plodovie/yabloni/uhod/obrezka/kak-pravilno.html&lt;/span&gt;&lt;/p&gt;
 &lt;strong&gt;Продолжение следует...&lt;/strong&gt;
 
-          ]]></description>
-        <pubDate>Mon, 09 Jul 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_fifth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_fifth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Родовое дерево династии</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;&lt;h1&gt;Родовое дерево династии&lt;/h1&gt;&lt;/div&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_ninth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;&lt;h1&gt;Родовое дерево династии&lt;/h1&gt;&lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/vizantiya_kak_eto_bylo/009/vizantiya_kak_eto_bylo_09_001.jpg&quot; alt=&quot;картинка&quot; title='Родовое дерево династии'&gt;
 &lt;h2&gt;&lt;span class=&quot;post__desc&quot;&gt;История Македонской династии, как изобразить её правильно? Обычно для этого люди обращаются к официальной науке. — Неужели выдуманная немцами история может быть наукой? — Может, если её преподают в лучшем вузе страны… имени М.В. Ломоносова.&lt;/span&gt;&lt;/h2&gt;
 &lt;hr /&gt;
@@ -1315,16 +1309,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 
 &lt;p&gt;&lt;strong class=&quot;offers&quot;&gt;Не желаете продолжить писать народную историю???&lt;/strong&gt;&lt;/p&gt;
 &lt;br /&gt;
-          ]]></description>
-        <pubDate>Wed, 27 Jun 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_ninth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/vizantiya_kak_eto_bylo_ninth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Императрицы Зоя и Феодора</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;&lt;h1&gt;Императрицы Зоя и Феодора&lt;/h1&gt;&lt;/div&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_eighth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;&lt;h1&gt;Императрицы Зоя и Феодора&lt;/h1&gt;&lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/vizantiya_kak_eto_bylo/008/vizantiya_kak_eto_bylo_08_001.jpg&quot; alt=&quot;Императрицы Зоя и Феодора&quot; title='Императрицы Зоя и Феодора'&gt;
 &lt;h2&gt;&lt;span class=&quot;post__desc&quot;&gt;Императрицы Зоя и Феодора Константиновны. А куда подевалась царевна-монашка Евдокия? Двоюродные братья и сестры императриц: Мария Владимировна, Мстислав, Борис, Глеб Владимировичи. Троюродные Изяслав и Ярослав, Вышеслава, Мстислава и Предслава – и все «владимировичи»… Почему мы не знаем свою историю и всех своих предков?&lt;/span&gt;&lt;/h2&gt;
 &lt;hr /&gt;
@@ -1711,16 +1704,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 &lt;/a&gt;
 &lt;div class=&quot;pictTitle&quot;&gt;Почему мы не можем рисовать свою историю сами?&lt;/div&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/vizantiya_kak_eto_bylo_ninth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Fri, 15 Jun 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_eighth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/vizantiya_kak_eto_bylo_eighth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Император Василий II</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;&lt;h1&gt;Император Василий II&lt;/h1&gt;&lt;/div&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_seventh.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;&lt;h1&gt;Император Василий II&lt;/h1&gt;&lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/vizantiya_kak_eto_bylo/007/vizantiya_kak_eto_bylo_07_001.jpg&quot; alt=&quot;Император Василий II&quot; title='Император Василий II'&gt;
 &lt;h2&gt;&lt;span class=&quot;post__desc&quot;&gt;&lt;strong&gt;Василий II Вулгароктон&lt;/strong&gt; (Болгаробойца) – внук Орла, правнук двух Львов. А Владимир I Святославич чей внук и правнук по женским линиям??? Если Владимир сын Святослава, то Василий сын Романа. А значит по-нашему — он Василий II Романов.&lt;/span&gt;&lt;/h2&gt;
 &lt;hr /&gt;
@@ -1919,16 +1911,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Остальные актёры были частично рассмотрены в различных статьях раздела &lt;a href=&quot;/alternativnaya_istoriya_rusi/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;«Альтернативная история Руси.18+»&lt;/a&gt;&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/vizantiya_kak_eto_bylo_eighth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Sat, 19 May 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_seventh.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/vizantiya_kak_eto_bylo_seventh.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Императрица Феофано</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;&lt;h1&gt;Императрица Феофано&lt;/h1&gt;&lt;/div&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_sixth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;&lt;h1&gt;Императрица Феофано&lt;/h1&gt;&lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/vizantiya_kak_eto_bylo/006/vizantiya_kak_eto_bylo_06_001.jpg&quot; alt=&quot;Императрица Феофано&quot; title='Императрица Феофано'&gt;
 &lt;h2&gt;&lt;span class=&quot;post__desc&quot;&gt;Ну, вот наконец и эта СУКА! Императрица … а кто из них сука: Анастасо или Феофано? Прежде чем перейти к статье, давайте перечислим различные разрешенные (не грубоматные) ругательные слова. Например: сука, падла, мудак и дурак. И на всякий случай «дура»…&lt;/span&gt;&lt;/h2&gt;
 &lt;hr /&gt;
@@ -2709,16 +2700,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 &lt;/a&gt;
 &lt;div class=&quot;pictTitle&quot;&gt;Пишем новую Повесть Временных Лет и новое «Слово о полку…»&lt;/div&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/vizantiya_kak_eto_bylo_seventh.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Fri, 18 May 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_sixth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/vizantiya_kak_eto_bylo_sixth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Император Константин VII ч.2</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;&lt;h1&gt;Император Константин VII ч.2&lt;/h1&gt;&lt;/div&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_fifth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;&lt;h1&gt;Император Константин VII ч.2&lt;/h1&gt;&lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/vizantiya_kak_eto_bylo/005/vizantiya_kak_eto_bylo_05_001.jpg&quot; alt=&quot;Император Константин VII ч.2&quot; title='Император Константин VII ч.2'&gt;
 &lt;h2&gt;&lt;span class=&quot;post__desc&quot;&gt;Вы видели самых богатых людей планеты? Они похожи на придурков? Так почему мы верим потомкам евнухов, что византийские императоры были такими? …Читая историю Византии, это одно из чувств, которое иногда возникает.&lt;/span&gt;&lt;/h2&gt;
 &lt;hr /&gt;
@@ -3502,16 +3492,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 &lt;p&gt;Не желаете добавить свой комментарий?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Сколько у Вас ещё спичек осталось ???&lt;/strong&gt;&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/vizantiya_kak_eto_bylo_sixth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Thu, 26 Apr 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_fifth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/vizantiya_kak_eto_bylo_fifth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Князь Всеслав Брячиславич</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_ninth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Князь Всеслав Брячиславич&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/alternativnaya_istoriya_rusi/009/alternativnaya-istoriya-rusi_09_001.jpg&quot; alt=&quot;Князь Всеслав Брячиславич&quot; title='Князь Всеслав Брячиславич'&gt;
@@ -3775,16 +3764,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Not all souls can be saved…&lt;/strong&gt;&lt;/p&gt;
 
 
-          ]]></description>
-        <pubDate>Sat, 21 Apr 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_ninth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/alternativnaya_istoriya_rusi_ninth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Император Константин VII ч.1</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;&lt;h1&gt;Император Константин VII ч.1&lt;/h1&gt;&lt;/div&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_fourth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;&lt;h1&gt;Император Константин VII ч.1&lt;/h1&gt;&lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/vizantiya_kak_eto_bylo/004/vizantiya_kak_eto_bylo_04_001.jpg&quot; alt=&quot;Император Константин VII ч.1&quot; title='Император Константин VII ч.1'&gt;
 &lt;h2&gt;&lt;span class=&quot;post__desc&quot;&gt;Может ли сын льва быть орлом? Может — если у льва отец был орёл… Стёртые страницы истории про того, кто историю писал другим.&lt;/span&gt;&lt;/h2&gt;
 &lt;hr&gt;
@@ -4470,16 +4458,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 &lt;p&gt;Разве можно с такими «людьми» построить «будущее»? Интересно, что бы на это сказала Анастасия, которой в этом году исполняется 50 лет…&lt;/p&gt;
 &lt;p&gt;Быть может нам наш сайт превратить в «эротический»? Количество подписчиков будет побольше, ну а скольким «человекам» понравится это видео, мы узнаем по количеству просмотров…&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/vizantiya_kak_eto_bylo_fifth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Sat, 14 Apr 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_fourth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/vizantiya_kak_eto_bylo_fourth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Император Лев VI</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;&lt;h1&gt;Император Лев VI&lt;/h1&gt;&lt;/div&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_third.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;&lt;h1&gt;Император Лев VI&lt;/h1&gt;&lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/vizantiya_kak_eto_bylo/003/vizantiya_kak_eto_bylo_03_001.jpg&quot; alt=&quot;Император Лев VI&quot; title='Император Лев VI'&gt;
 &lt;h2&gt;&lt;span class=&quot;post__desc&quot;&gt;Император Лев Мудрый (или Философ). Был ли Лев шестым, и насколько «силен» мог быть патриарх, чтобы командовать римским императором?&lt;/span&gt;&lt;/h2&gt;
 &lt;hr&gt;
@@ -4902,16 +4889,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 	&lt;p&gt;&lt;strong&gt;«Плейбой»&lt;/strong&gt; (англ. Playboy) — эротический журнал для мужчин, издающийся с 1953 года Хью Хефнером и его коллегами, выросший в издательский дом Playboy Enterprises, деятельность которого простирается на многие области медиа-бизнеса для взрослых. Кроме журнала в США выпускаются журналы на различных языках во всём мире. Русская версия журнала выходит с 1995 года.&lt;/p&gt;
 &lt;/div&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/vizantiya_kak_eto_bylo_fourth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Sat, 24 Mar 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_third.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/vizantiya_kak_eto_bylo_third.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Родовое дерево</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_ninth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Родовое дерево&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovoye_derevo_kiyevskoy_rusi/009/rodovoye_derevo_kiyevskoy_rusi_09_001.jpg&quot; alt=&quot;Родословная Черниговских князей&quot; title='Родовое дерево'&gt;
@@ -5155,16 +5141,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 &lt;/a&gt;
 &lt;div class=&quot;pictTitle&quot;&gt;Потомки Святослава Храброго (показаны частично).&lt;/div&gt;
 
-          ]]></description>
-        <pubDate>Sat, 17 Mar 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_ninth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_ninth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Император Василий I</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_second.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Император Василий I&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/vizantiya_kak_eto_bylo/002/vizantiya_kak_eto_bylo_02_001.jpg&quot; alt=&quot;Император Василий I&quot; title='Император Василий I'&gt;
@@ -5495,16 +5480,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 &lt;p&gt;Имена Фаустина и Крисп встречаются так же в семейном альбоме императора Константина стр. 6 и стр. 14.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Феодора, невестка Евдокия и дочери Феодоры:&lt;/strong&gt; чьи это фото, к сожалению, неизвестно. Если кто поможет, будем благодарны…&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/vizantiya_kak_eto_bylo_third.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Wed, 14 Mar 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_second.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/vizantiya_kak_eto_bylo_second.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Император Константин I</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_first.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Император Константин I&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/vizantiya_kak_eto_bylo/001/vizantiya_kak_eto_bylo_01_001.jpg&quot; alt=&quot;Император Константин I&quot; title='Император Константин I'&gt;
@@ -5778,16 +5762,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 
 &lt;p&gt;Было ли известно это нехристи-анское (или антихристи-анское) «учение» в Восточной Римской империи? Куда делись все потомки Константина Великого и его семьи? Ведь не реально что бы из 12 человек (внуков Евтропии и Констанция) не осталось ни одного наследника, &lt;strong&gt;Вы с этим согласны?&lt;/strong&gt;&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/vizantiya_kak_eto_bylo_second.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Wed, 07 Mar 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/vizantiya_kak_eto_bylo_first.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/vizantiya_kak_eto_bylo_first.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Князь Брячислав Изяславич</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_eighth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Князь Брячислав Изяславич&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/alternativnaya_istoriya_rusi/008/alternativnaya_istoriya_rusi_08_001.jpg&quot; alt=&quot;Князь Брячислав Изяславич&quot; title='Князь Брячислав Изяславич'&gt;
@@ -5924,16 +5907,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 &lt;p&gt;Последняя статья нашего раздела будет называться примерно так: «&lt;strong&gt;!щиравот ен – еьнивс ьсуГ&lt;/strong&gt;»&lt;/p&gt;
 
 &lt;a class=&quot;next_article&quot; href=&quot;/alternativnaya_istoriya_rusi_ninth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Mon, 26 Feb 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_eighth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/alternativnaya_istoriya_rusi_eighth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Князь Изяслав Владимирович</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_seventh.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Князь Изяслав Владимирович&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/alternativnaya_istoriya_rusi/007/alternativnaya_istoriya_rusi_07_001.jpg&quot; alt=&quot;Князь Изяслав Владимирович&quot; title='Князь Изяслав Владимирович'&gt;
@@ -6148,16 +6130,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 &lt;/a&gt;
 &lt;div class=&quot;pictTitle&quot;&gt;Белая Русь и Киевская Русь  — мы потомки R1а, древней княжеской Руси!&lt;/div&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/alternativnaya_istoriya_rusi_eighth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Tue, 20 Feb 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_seventh.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/alternativnaya_istoriya_rusi_seventh.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Князь Рюрик</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_sixth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Князь Рюрик&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/alternativnaya_istoriya_rusi/006/alternativnaya_istoriya_rusi_06_001.jpg&quot; alt=&quot;Князь Рюрик&quot; title='Князь Рюрик'&gt;
@@ -6310,16 +6291,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 &lt;div class=&quot;pictTitle&quot;&gt;Без слов…&lt;/div&gt;
 &lt;hr&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/alternativnaya_istoriya_rusi_seventh.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Mon, 05 Feb 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_sixth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/alternativnaya_istoriya_rusi_sixth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Князь Олег????????</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_fifth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Князь Олег????????&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/alternativnaya_istoriya_rusi/005/alternativnaya_istoriya_rusi_05_001.jpg&quot; alt=&quot;Князь Олег????????&quot; title='Князь Олег????????'&gt;
@@ -6504,16 +6484,15 @@ Yfif pflfxf dthyenm yfcnjzoe. Bcnjhb.!!!&lt;/p&gt;
 	&lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/alternativnaya_istoriya_rusi/005/alternativnaya_istoriya_rusi_05_017.jpg&quot; alt=&quot;потомки варваров&quot; title=&quot;количество домов, которые «сожгли» потомки варваров своим историческим фильмом&quot;&gt;
 &lt;/a&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/alternativnaya_istoriya_rusi_sixth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Fri, 02 Feb 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_fifth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/alternativnaya_istoriya_rusi_fifth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Князь Игорь Рюрикович</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_fourth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Князь Игорь Рюрикович&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/alternativnaya_istoriya_rusi/004/alternativnaya_istoriya_rusi_04_001.jpg&quot; alt=&quot;Князь Игорь Рюрикович&quot; title='Князь Игорь Рюрикович'&gt;
@@ -6724,16 +6703,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 
 &lt;p&gt;Четвертый (появляющийся) слой требует найти к следующей статье портрет Рюрика, маму Игоря, жену Игоря Черниговского и крёстную парочку (Константина и Ольгу). Наличие двух Игорей предполагает, что у них есть общий предок (отец, дедушка, прадед). Нас убеждают что Игорь «скандинав». Я не буду спорить с «норманистами»… но по какой линии: мужской или женской?&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/alternativnaya_istoriya_rusi_fifth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Thu, 25 Jan 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_fourth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/alternativnaya_istoriya_rusi_fourth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Князь Святослав Игоревич</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_third.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Князь Святослав Игоревич&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/alternativnaya_istoriya_rusi/003/alternativnaya_istoriya_rusi_03_001.jpg&quot; alt=&quot;Князь Святослав Игоревич&quot; title='Князь Святослав Игоревич'&gt;
@@ -6930,16 +6908,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;p&gt;На данном шаге мы видим, как появились две линии портретов. Я эту линию называю своеобразным термином «кармический слой». Мы видим людей, который жили примерно в одно время: 1 слой (линия) Олег, Ярополк, Анна, Владимир, Горислава, братья будущей Полоцкой княжны. И 2 слой (линия) Глеб, Анастасия (Анастасо), Предслава, Малуша, Анастасия, Володислав. Эти люди видели друг друга, общались, дружили и враждовали. В зависимости от того, как сложились их отношения&amp;nbsp;- такую карму они наработали. Если реинкарнарнация существует, то логично, что потомки этих людей (с частичкой прошлой жизни) должны в какое-то время встретиться в новой жизни…&lt;/p&gt;
 &lt;p&gt;Для того, чтобы связать это с науками* астрология и нумерология, я пишу даты. Астрологи и нумерологии пытаются расшифровать нашу судьбу по дате рождения. Имея для анализа даты появления на свет различных людей, мы можем проверить, так ли это на самом деле. Скажем так: в какой степени это практические и нужные науки, а в какой обман – т.е. нам с Вами просто «пудрят» мозги…&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/alternativnaya_istoriya_rusi_fourth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Sat, 20 Jan 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_third.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/alternativnaya_istoriya_rusi_third.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Князь Владимир Святославич</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_second.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Князь Владимир Святославич&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/alternativnaya_istoriya_rusi/002/alternativnaya_istoriya_rusi_02_001.jpg&quot; alt=&quot;Князь Владимир Святославич&quot; title='Князь Владимир Святославич'&gt;
@@ -7066,16 +7043,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;p&gt;Перед Вами начало процесса рисования Родового дерева. Это изображение будет отличаться от того, которое было нарисовано в прошлых разделах. Как Вы уже знаете, существует родовое дерево (восходящая родословная от предка к потомкам). В зависимости от количества рожденных детей, восходящее родовое дерево может иметь разный вид кроны. Если у Вас всего один ребенок, то Вы рискуете что оно так и останется одиноким прутиком. Нисходящая родословная (от потомка к предкам) как правило представляет собой равнобедренную пирамиду, где вы на вершине. Что получится через семь поколений после вашего ухода в «мир иной», вы вряд ли узнаете…. Но зато в следующем рассказе Вы узнаете, как мог выглядеть по-нашему мнению князь Святослав (отец Владимира), его вторая жена Малуша (мама Владимира). Конечно же мы добавим ещё две жены Владимиру: одна из которых была Милолика Болгарская (мать первых православных святых на Руси Бориса и Глеба) и Анну Византийскую, третью жену Владимира, маму Марии Владимировны и Мстислава Владимировича.&lt;/p&gt;
 &lt;p&gt;Одно дело изображать персонажей истории неизвестного скандинавского происхождения, другое дело&amp;nbsp;- если это дети и внуки императоров Македонской династии Восточной Римской империи!&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/alternativnaya_istoriya_rusi_third.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Mon, 15 Jan 2018 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_second.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/alternativnaya_istoriya_rusi_second.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Венчание</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/anastasiya_romanova_ninth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Венчание&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -7234,16 +7210,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;p&gt;Если вам это не интересно, то вам никогда и не узнать историю Первой Любви на Руси. Сегодня 28 июля 2017 года ровно 1029 лет с момента первого Венчания. В 1029 году была встреча между Олафом и Ириной, а в 1030 году родился Всеволод. Он не был сыном Ярослава и не был любимым. Он просто в момент смерти был рядом, и возможно кое-что не так сказал братьям. Или вообще… короче, это уже совсем другая история и когда она писалась – никто не знает.&lt;/p&gt;
 
 &lt;p&gt;Окончание следует только в случае появления комментариев со стороны читателей сайта на нашей странице в &lt;strong&gt;&lt;a href=&quot;https://vk.com/lazeyka&quot; target=&quot;_blank&quot;&gt;vk.com/lazeyka&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-          ]]></description>
-        <pubDate>Fri, 28 Jul 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/anastasiya_romanova_ninth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/anastasiya_romanova_ninth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Вражда</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_eighth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Вражда&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovoye_derevo_kiyevskoy_rusi/008/rodovoye_derevo_kiyevskoy_rusi_08_001.jpg&quot; alt=&quot;Вражда&quot; title='Вражда'&gt;
@@ -7418,16 +7393,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;p&gt;Летописцы не сохранили нам, жителям Белой Руси, ни одного женского имени… или их удалили Радзивилы, чтобы навсегда стереть нашу настоящую историю! Кода они пришли на нашу землю, в их памяти даже через 300 лет был ещё страх, когда они читали оригинал Полоцкой летописи об этом &lt;strong&gt;сильном, честном и доблестном воине!!!&lt;/strong&gt; Сыне Брячислава, внуке Изяслава, правнуке Владимира и Рогвода, и праправнуке Святослава Храброго. Красивый образ, красавицы жены – такого можно смело величать Всеслав Чародей, по прозвищу Храбрый.&lt;/p&gt;
 &lt;p&gt;С днем освобождения Минска, товарищи Белые Русы! Если вам интересно продолжение истории про Киевскую Русь, то читайте остальные разделы, потому что в каждом из них будет по маленьким кусочкам разбросана правда. Сможете ли вы собрать её в единое целое – я не знаю. Но возможно, с момента прочтения вами этой статьи вы можете задуматься: кто и зачем исказил нашу историю? И когда поймете это сами, только тогда она (история) изменится, потому что всё то примитивное, что мы читаем о наших прародителях, рано или поздно возвращается к нам. Ведь мы их потомки…&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/rodovoye_derevo_kiyevskoy_rusi_ninth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Thu, 13 Jul 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_eighth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_eighth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Предисловие или православие</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_first.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Предисловие или православие&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/alternativnaya_istoriya_rusi/001/alternativnaya_istoriya_rusi_01_001.jpg&quot; alt=&quot;Предисловие или православие&quot; title='Предисловие или православие'&gt;
@@ -7641,16 +7615,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 	&lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/alternativnaya_istoriya_rusi/001/alternativnaya_istoriya_rusi_01_024.jpg&quot; alt=&quot;«Львов» или «Львовичей»&quot; title=&quot;«Львов» или «Львовичей».&quot;&gt;
 &lt;/a&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/alternativnaya_istoriya_rusi_second.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Thu, 13 Jul 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/alternativnaya_istoriya_rusi_first.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/alternativnaya_istoriya_rusi_first.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Первая семья</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_fourth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Первая семья&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -7925,16 +7898,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 	&lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovaya_kniga_ili_rodoslovnaya/004/rodovaya_kniga_ili_rodoslovnaya_04_024.jpg&quot; alt=&quot;Первая семья на Руси&quot; title=&quot;Первая семья на Руси&quot;&gt;
 &lt;/a&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/rodovaya_kniga_ili_rodoslovnaya_fifth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Sat, 24 Jun 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_fourth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_fourth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Крещение</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/anastasiya_romanova_eighth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Крещение&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -8330,16 +8302,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 
 &lt;p&gt;&lt;strong&gt;Крещение и смена имени (Ольги в Елену «Прекрасную»)  - загадочная наука… Разницу видите???&lt;/strong&gt;&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/anastasiya_romanova_ninth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Tue, 20 Jun 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/anastasiya_romanova_eighth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/anastasiya_romanova_eighth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Первоисточник — архивы</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_third.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Первоисточник — архивы&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -8556,16 +8527,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
   &lt;iframe width=&quot;900&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/n5Ts02vOlQs&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/rodovaya_kniga_ili_rodoslovnaya_fourth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Fri, 09 Jun 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_third.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_third.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Моя родословная</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_second.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Моя родословная&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovaya_kniga_ili_rodoslovnaya/002/rodovaya_kniga_ili_rodoslovnaya_02_001.jpg&quot; alt=&quot;Моя родословная&quot; title='Моя родословная'&gt;
@@ -8728,16 +8698,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 	&lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovaya_kniga_ili_rodoslovnaya/002/rodovaya_kniga_ili_rodoslovnaya_02_019.jpg&quot; alt=&quot;Анастасия&quot; title=&quot;Анастасия&quot;&gt;
 &lt;/a&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/rodovaya_kniga_ili_rodoslovnaya_third.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Sun, 04 Jun 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_second.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_second.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Мезальянс и моногамия</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/anastasiya_romanova_seventh.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Мезальянс и моногамия&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -8944,16 +8913,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 
 &lt;p&gt;Если пойти «по стрелочкам!», то видно, как появилась на Руси первая императрица.  Когда нам нужно будет нарисовать Родовое дерево Петра 1, то у нас чётко видно где «Ева» (Евдокия) и «Лилит» (Екатерина). Несомненно, такая же ситуация есть в далеком прошлом: при императорском дворе Михаила III была наложница Евдокия. Она была наложницей Михаила и любовницей Василия. У Василия была жена Мария, которую он бросил и сделался императором, тут же императрицей стала и Евдокия… У Родового дерева Киевской Руси есть «Лилит» (Евдокия) и так называемое «первое Фотиево крещение» Руси как раз произошло во времена царствовании Михаила III…&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/anastasiya_romanova_eighth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Tue, 23 May 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/anastasiya_romanova_seventh.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/anastasiya_romanova_seventh.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Династические браки</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/anastasiya_romanova_sixth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Династические браки&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -9149,16 +9117,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;p&gt;Перед вами две очень похожие картинки в зеркальном отражении. Когда-то Екатерина уничтожила всю семью Ивана Антоновича, не оставив даже портретов для моего рассказа. Ровно через семь поколений кто-то уничтожил всю семью Анастасии, не оставив даже косточек-останков для идентификации…&lt;/p&gt; 
 &lt;p&gt;&lt;strong&gt;Ещё сомневаетесь, что «психогенеалогия» увлекательная домашняя наука?&lt;/strong&gt;&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/anastasiya_romanova_seventh.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Tue, 16 May 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/anastasiya_romanova_sixth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/anastasiya_romanova_sixth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Германцы?</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/anastasiya_romanova_fifth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Германцы?&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -9347,16 +9314,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 	&lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodoslovnaya_anastasii_romanovoy/005/rodoslovnaya_anastasii_romanovoy_05_016.jpg&quot; alt=&quot;Родовое дерево Анастасии&quot; title=&quot;Открыть и увеличить в новой вкладке&quot;&gt;
 &lt;/a&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/anastasiya_romanova_sixth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Thu, 11 May 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/anastasiya_romanova_fifth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/anastasiya_romanova_fifth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Семья первого Романа</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/anastasiya_romanova_fourth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Семья первого Романа&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -9796,16 +9762,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 	&lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodoslovnaya_anastasii_romanovoy/004/rodoslovnaya_anastasii_romanovoy_04_021.jpg&quot; alt=&quot;Монеты Петра I&quot; title=&quot;Монеты Петра I&quot;&gt;
 &lt;/a&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/anastasiya_romanova_fifth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Thu, 04 May 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/anastasiya_romanova_fourth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/anastasiya_romanova_fourth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">С чего начать?</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_first.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;С чего начать?&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovaya_kniga_ili_rodoslovnaya/001/rodovaya_kniga_ili_rodoslovnaya_01_001.jpg&quot; alt=&quot;С чего начать?&quot; title='С чего начать?'&gt;
@@ -9907,16 +9872,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 	&lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovaya_kniga_ili_rodoslovnaya/001/rodovaya_kniga_ili_rodoslovnaya_01_012.jpg&quot; alt=&quot;мой подарок чиновникам&quot; title=&quot;Мой подарок чиновникам&quot;&gt;
 &lt;/a&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/rodovaya_kniga_ili_rodoslovnaya_second.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Thu, 27 Apr 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_first.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovaya_kniga_ili_rodoslovnaya_first.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Первоисточник — Бархатная книга</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/anastasiya_romanova_third.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Первоисточник — Бархатная книга&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -10159,16 +10123,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;/a&gt;
 &lt;div class=&quot;pictTitle&quot;&gt;Последние династии Рюриковичей&lt;/div&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/anastasiya_romanova_fourth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Sat, 22 Apr 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/anastasiya_romanova_third.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/anastasiya_romanova_third.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Психогенеалогия</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/anastasiya_romanova_second.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Психогенеалогия&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -10238,16 +10201,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;p&gt;Мой дальнейший рассказ будет построен по принципу «генеалогия имени». Мы все знаем, что имя влияет на судьбу и характер человека. Есть даже раздел нумерологии под названием «Числовая мандала», где опытный специалист разложит буквы имени в цифры, цифры свяжет с названием планет, планеты с чертами вашего характера и т.д. Совсем другим влиянием может оказаться, если вы назвали ребенка в честь «святого», судьба которого трагична и бессмысленна.&lt;/p&gt;
 &lt;p&gt;Не желаете проследить своё имя в истории? А знаете ли Вы, кто была Анастасия №1?&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/anastasiya_romanova_third.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Sun, 16 Apr 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/anastasiya_romanova_second.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/anastasiya_romanova_second.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Начало Династии</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/anastasiya_romanova_first.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Начало Династии&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -10619,16 +10581,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 	&lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodoslovnaya_anastasii_romanovoy/001/rodoslovnaya_anastasii_romanovoy_01_020.jpg&quot; alt=&quot;картинка&quot; title=&quot;Картинка&quot;&gt;
 &lt;/a&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/anastasiya_romanova_second.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Mon, 10 Apr 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/anastasiya_romanova_first.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/anastasiya_romanova_first.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Кровосмешение</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_seventh.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Кровосмешение&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovoye_derevo_kiyevskoy_rusi/007/rodovoye_derevo_kiyevskoy_rusi_07_001.jpg&quot; alt=&quot;Кровосмешение&quot; title='Кровосмешение'&gt;
@@ -10732,16 +10693,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 	&lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovoye_derevo_kiyevskoy_rusi/007/rodovoye_derevo_kiyevskoy_rusi_07_007.jpg&quot; alt=&quot;lazeyka.by&quot; title=&quot;LaZeyka.by&quot;&gt;
 &lt;/a&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/rodovoye_derevo_kiyevskoy_rusi_eighth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Mon, 03 Apr 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_seventh.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_seventh.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Братья и Сёстры</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_sixth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Братья и Сёстры&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -10834,16 +10794,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;p&gt;Эта знаменитая картина Алексея Транковского &amp;laquo;Ярослав Мудрый и шведская принцесса Ингигерда&amp;raquo;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Вам не кажется что это не Ингегерда???&lt;/strong&gt;&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/rodovoye_derevo_kiyevskoy_rusi_seventh.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Wed, 22 Mar 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_sixth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_sixth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Скандинавы?</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_fifth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Скандинавы?&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -10914,16 +10873,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 	&lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovoye_derevo_kiyevskoy_rusi/005/rodovoye_derevo_kiyevskoy_rusi_05_007.jpg&quot; alt=&quot;Внук, правнук и шурин византийских императоров&quot; title=&quot;Внук, правнук и шурин византийских императоров&quot;&gt;
 &lt;/a&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/rodovoye_derevo_kiyevskoy_rusi_sixth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Tue, 14 Mar 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_fifth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_fifth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Семья первого Святослава</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_fourth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Семья первого Святослава&lt;/h1&gt;
 &lt;/div&gt;
 
@@ -10995,16 +10953,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;p&gt;Жен у Святослава было две. Первая была Предслава Игорьевна Черная (Черниговская). Княжна язычница родила ему Ярополка и Олега. Вторая жена (или наложница) названа в летописях Малушей, и картинках всегда изображается как рабыня. Малуша родила Владимира, и судя по современной классификации, все парни были единокровными братьями. Олег уже был в начале нашего рассказа под именем Вещий. Олег II Святославич получается на родовом дереве вторым. Он погиб в 20-ти летнем возрасте, о чем говорит фото юноши на коне, которым он и был раздавлен. Имя Ярополка I известно в истории больше чем его брата Олега тем, что в него была влюблена сама Рогнеда Полоцкая. Ярополк был очень воинственным и история называет его Ярополк I Святославич. Он был женат на греческой монахине Юлии, которая родила ему Святополка I.&lt;/p&gt;
 &lt;p&gt;И последнее фото изображает Владимира I Святославича, про которого уже все знают точно, он Креститель. Лучше бы оставался Владимиром Красное солнышко…&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/rodovoye_derevo_kiyevskoy_rusi_fifth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Sun, 22 Jan 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_fourth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_fourth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Первоисточник — Летописи</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_third.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Первоисточник — Летописи&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovoye_derevo_kiyevskoy_rusi/003/rodovoye_derevo_kiyevskoy_rusi_03_001.jpg&quot; alt=&quot;Первоисточник — Летописи&quot; title='Первоисточник — Летописи'&gt;
@@ -11082,16 +11039,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
   &lt;iframe width=&quot;900&quot; height=&quot;314&quot; src=&quot;//www.youtube.com/embed/1ZR9T3EfjbY&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/rodovoye_derevo_kiyevskoy_rusi_fourth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Sat, 14 Jan 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_third.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_third.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">ДНК — генеалогия</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_second.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;ДНК — генеалогия&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovoye_derevo_kiyevskoy_rusi/002/rodovoye_derevo_kiyevskoy_rusi_02_001.jpg&quot; alt=&quot;ДНК — генеалогия&quot; title='ДНК — генеалогия'&gt;
@@ -11147,16 +11103,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;/div&gt;
 
 &lt;a class=&quot;next_article&quot; href=&quot;/rodovoye_derevo_kiyevskoy_rusi_third.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Thu, 05 Jan 2017 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_second.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_second.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Начало Рода</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_first.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Начало Рода&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/rodovoye_derevo_kiyevskoy_rusi/001/rodovoye_derevo_kiyevskoy_rusi_01_001.jpg&quot; alt=&quot;Начало Рода&quot; title='Начало Рода'&gt;
@@ -11183,16 +11138,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;p&gt;&lt;strong&gt;Ничего не напоминает?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Да-да, это похоже на могильный крест… Почему так грустно начинаем? День-то какой – 27 декабря 2016 года. Ровно 940 лет назад умер замечательный человек Святослав II Ярославич, князь Черниговский и Тмутараканский, третий сын Ярослава Мудрого и …. Думаете Ингегерды Шведской? Хрен Вы угадали! Именно об этом и будут последующие статьи данной рубрики, задача которой восстановить справедливость про потомков этого человека…&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/rodovoye_derevo_kiyevskoy_rusi_second.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Tue, 27 Dec 2016 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_first.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/rodovoye_derevo_kiyevskoy_rusi_first.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Инцест</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/adam-eve-seventh.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Инцест&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/adam_and_eve/007/adam_and_eve_07_001.jpg&quot; alt=&quot;Инцест&quot; title='Инцест'&gt;
@@ -11233,16 +11187,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 	&lt;p&gt;Следующая статья будет посвящена Ною, первому капитану планеты земля и его жене Эмзаре. Почему капитану? А где вы видели «морское судно» без команды и капитана? Там же будет его семья и его Родословная!&lt;/p&gt;
 &lt;/div&gt;
 &lt;strong&gt;Продолжение следует...&lt;/strong&gt;
-          ]]></description>
-        <pubDate>Mon, 26 Dec 2016 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/adam-eve-seventh.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/adam-eve-seventh.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Добро и Зло</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/adam-eve-sixth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Добро и Зло&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/adam_and_eve/006/adam_and_eve_06_001.jpg&quot; alt=&quot;Добро и Зло&quot; title='Добро и Зло'&gt;
@@ -11280,16 +11233,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;p&gt;Пока вы размышляете, я буду рисовать родовое дерево.&lt;/p&gt;
 &lt;p&gt;Я вижу прошлое красивым, а ВЫ?&lt;/p&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/adam-eve-seventh.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Tue, 20 Dec 2016 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/adam-eve-sixth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/adam-eve-sixth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Инопланетяне?</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/adam-eve-fifth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Инопланетяне?&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/adam_and_eve/005/adam_and_eve_05_001.jpg&quot; alt=&quot;Инопланетяне?&quot; title='Инопланетяне?'&gt;
@@ -11351,16 +11303,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 	&lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/adam_and_eve/005/adam_and_eve_05_005.jpg&quot; alt=&quot;К чему придут эти люди&quot; title=&quot;К чему придут эти люди&quot;&gt;
 &lt;/a&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/adam-eve-sixth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Sun, 18 Dec 2016 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/adam-eve-fifth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/adam-eve-fifth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Семья первого Адама</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/adam-eve-fourth.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Семья первого Адама&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/adam_and_eve/004/adam_and_eve_04_001.jpg&quot; alt=&quot;Семья первого Адама&quot; title='Семья первого Адама'&gt;
@@ -11405,16 +11356,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 	&lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/adam_and_eve/004/adam_and_eve_04_004.jpg&quot; alt=&quot;семейное фото Адама&quot; title=&quot;семейное фото Адама&quot;&gt;
 &lt;/a&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/adam-eve-fifth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Sun, 11 Dec 2016 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/adam-eve-fourth.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/adam-eve-fourth.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Первоисточник — Библия</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/adam-eve-third.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Первоисточник — Библия&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/adam_and_eve/003/adam_and_eve_03_001.jpg&quot; alt=&quot;Первоисточник — Библия&quot; title='Первоисточник — Библия'&gt;
@@ -11457,16 +11407,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;/div&gt;
 
 &lt;a class=&quot;next_article&quot; href=&quot;/adam-eve-fourth.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Wed, 07 Dec 2016 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/adam-eve-third.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/adam-eve-third.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Генеалогия Адама</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/adam-eve-second.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Генеалогия Адама&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/adam_and_eve/002/adam_and_eve_02_001.jpg&quot; alt=&quot;Генеалогия Адама&quot; title='Генеалогия Адама'&gt;
@@ -11591,16 +11540,15 @@ Cогласно документа T—S (Glass) 12.122, который хран
 &lt;p&gt;…Не угадали. Я где-то слышал выражение, что Бог есть Любовь! А как вы это слово для себя понимаете – это ваше личное интимное дело…&lt;/p&gt;
 
 &lt;a class=&quot;next_article&quot; href=&quot;/adam-eve-third.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Tue, 29 Nov 2016 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/adam-eve-second.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/adam-eve-second.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
-      <item>
-        <title turbo="true">Начало Творения</title>
-        <description><![CDATA[
-          &lt;div class='post__title'&gt;
+      <item  turbo="true">
+        <link>https://lazeyka.by/adam-eve-first.html</link>
+        <turbo:content>
+          <![CDATA[
+            &lt;div class='post__title'&gt;
 	&lt;h1&gt;Начало Творения&lt;/h1&gt;
 &lt;/div&gt;
 &lt;img class=&quot;post__pict&quot; src=&quot;https://lazeyka.by/images/adam_and_eve/001/adam_and_eve_01_001.jpg&quot; alt=&quot;Начало Творения&quot; title='Начало Творения'&gt;
@@ -11676,42 +11624,9 @@ Cогласно документа T—S (Glass) 12.122, который хран
 Когда один, когда умножен многократно он, свет незримый источая, в единое его сливая, Вселенной будет управлять. Подарит радость жизни он всему. Я всё ему отдал и в будущем помысленное тоже отдаю...&lt;/p&gt;
 &lt;/div&gt;
 &lt;a class=&quot;next_article&quot; href=&quot;/adam-eve-second.html&quot;&gt;Продолжение »&lt;/a&gt;
-          ]]></description>
-        <pubDate>Tue, 29 Nov 2016 00:00:00 +0300</pubDate>
-        <link>https://lazeyka.by/adam-eve-first.html</link>
-        <guid isPermaLink="true">https://lazeyka.by/adam-eve-first.html</guid>
+          ]]>
+        </turbo:content>
       </item>
     
   </channel>
 </rss>
-<!--<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Генеалогия, Родовое Дерево, Родовая Книга, Родовой Лес</title>
-    <link>https://lazeyka.by</link>
-    <description>Генеалогия, Родовое Дерево, Родовая Книга, Родовой Лес — что это, а точнее — Зачем? Мы решили по новому взглянуть на эти понятия с учетом того, что мы уже знаем о прошлом.</description>
-    <image>
-	     <url>https://lazeyka.byimages/rodovoye_derevo_kiyevskoy_rusi/007/rodovoye_derevo_kiyevskoy_rusi_07_007.jpg</url>
-	     <title>Генеалогия, Родовое Дерево, Родовая Книга, Родовой Лес</title>
-	     <link>https://lazeyka.by</link>
-   	</image>
-    
-      
-       	<image>
-	        <url>https://lazeyka.by/images/rodovaya_kniga_rodovoy_les/002/rodovaya_kniga_rodovoy_les_02_001.jpg</url>
-	        <title>Родословная книга Анастасии</title>
-	        <link>https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</link>
-      	</image>
-        <item>
-          <title>Родословная книга Анастасии</title>
-          <link>https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</link>
-          <description>Анастасия Романова – последняя русская княжна. Младшая дочь Николая и Александры. Родная сестра Ольги, Татьяны, Марии и Алексея Романовых. На примере этой семьи мы продолжим примерное написание Родословной книги.</description>
-          <category>rodovaya_kniga_rodovoy_les</category>
-          <pubDate>2018-07-17T00:00:00+03:00</pubDate>
-          <author>Капитан Славик</author>
-          <guid isPermaLink="true">https://lazeyka.by/rodovaya_kniga_rodovoy_les_second.html</guid>
-        </item>
-      
-    
-  </channel>
-</rss>-->
