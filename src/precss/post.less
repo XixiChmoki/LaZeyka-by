@@ -1,0 +1,180 @@
+@import "project.less";
+
+.main__right__post__bar{
+	display: flex;
+	flex-direction: row;
+	padding-bottom: 7px;
+
+	div{
+		font: normal 12px Arial sans-serif;
+    	color: #797979;
+		span{
+    		color: #000000;
+		}
+	}
+	a{
+	    color: #0033CC;
+	    font: normal 12px Arial sans-serif;
+	    text-decoration: underline;
+	}
+	@media screen and  (max-width: 720px){
+		&__autor{
+			display: none;
+		}
+	}
+	@media screen and  (max-width: 440px){
+		&__date{
+			display: none;
+		}
+	}
+
+}
+
+
+.post__title{
+	h1{
+	    font-size: 22px;
+	    color: #616161;
+	    font-weight: 700;
+	    text-align: center;
+	}
+}
+.post__desc{
+	    color: purple;
+}
+.post__pict{
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+hr{
+	margin: 0;
+}
+.next_article{
+	display: block;
+	width: 120px;
+	padding-top: 4px;
+	background: #e1eef7;
+	font-size: 14px;
+	text-align: center;
+	color: #0033CC;
+	cursor: pointer;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.pictTitle{
+	color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 13px;
+    margin-bottom: 5px;
+    margin-top: -10px;
+}
+ol li{
+	color: @color_strong;
+	font-size: bold;
+	font-weight: bold;
+	span{
+		color: #333333;
+		font-weight: normal;
+	}
+	
+}
+
+.imgDescription{
+	overflow: hidden;
+	h3{
+		text-align: center;
+		font-weight: bold;
+		color: @color_strong;
+	}
+	&__second{
+		&__img{
+		float: left;
+		max-width: 150px;
+		margin: 0px 15px 15px 0px;
+		}
+		@media screen and  (max-width: 720px){
+			display:flex;
+			flex-direction: column;
+			&__img{
+			min-width: 100%;
+			margin: 10px 30px 10px 0px;
+			}
+		}
+		&__imgDubl{
+			float: left;
+			max-width: 300px;
+			margin: 0px 15px 15px 0px;
+		}
+		@media screen and  (max-width: 720px){
+			display:flex;
+			flex-direction: column;
+			&__imgDubl{
+			min-width: 100%;
+			margin: 10px 30px 10px 0px;
+			}
+		}
+	}
+}
+.linkOff{
+	color: @color_linkOff;
+}
+.verse{
+	text-align: center;
+}
+.dialogAuthor{
+    text-decoration: underline;
+    color: red;
+    font-size: 14px;
+}
+.dialogInterlocutor{
+	text-decoration: underline;
+    color: blue;
+    font-size: 14px;
+}
+
+.caligrafFont{
+	font-family: olietta_script_poesia;
+	font-size: 30px;
+}
+.smile{
+	max-width: 20px;
+}
+.white{
+	color: white;
+}
+.colorTitle{
+	color: @color_title;
+}
+.colorRed{
+	color: red;
+}
+.colorBlack{
+	color: #000000;
+}
+.offers{
+	color: @color_desc;
+	text-decoration: underline;
+}
+
+.backNext{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	    background: #54759b;
+	    font-size: 14px;
+	    padding: 0px 5px 0px 5px;
+	    a{
+	        color: #fff;
+	    }
+
+	    &__center{
+	    	@media screen and  (max-width: 400px){
+				display: none;
+		}
+	    	}
+	
+}
