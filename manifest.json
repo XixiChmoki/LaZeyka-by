@@ -1,14 +1,6 @@
 {
-    "short_name": "Lazeyka",
-    "name": "Lazeyka",
-    "start_url": "/",
-
-    "theme_color": "#fff",
-    "background_color": "#fff",
-
-    "display": "standalone",
-    "orientation": "portrait",
-
+    "short_name": "LaZeyka",
+    "name": "LaZeyka",
     "icons": [
   {
    "src": "\/img/icons/android-icon-36x36.png",
@@ -51,5 +43,14 @@
    "sizes": "512x512",
    "type": "image\/png"
   }
- ]
+ ],
+   "start_url": "/",
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#EDEEF0",
+    "theme_color": "#507299",
+    "description": "Генеалогия, Родовое Дерево, Родовая Книга, Родовой Лес — что это, а точнее — Зачем?",
+    "dir": "ltr",
+    "lang": "ru" 
 }

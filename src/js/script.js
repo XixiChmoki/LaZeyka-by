@@ -43,4 +43,33 @@ $(function(){
   })();
 	/* Google search Finish*/
 
+	// Начало. Скрипт для увеличения картинок
+    (function(){
+    var boxes=[],els,i,l;
+    if(document.querySelectorAll){
+    els=document.querySelectorAll('a[rel=simplebox]');  
+    Box.getStyles('simplebox_css','{{ site.url }}/css/simplebox.css');
+    Box.getScripts('simplebox_js','{{ site.url }}/js/simplebox.js',function(){
+    simplebox.init();
+    for(i=0,l=els.length;i<l;++i)
+    simplebox.start(els[i]);
+    simplebox.start('a[rel=simplebox_group]');          
+    });
+    }
+    })();
+
+	// serviceWorker
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('/sw.js').then(function(registration) {
+      // Registration was successful
+      console.log('ServiceWorker registration successful with scope: ', registration.scope);
+    }, function(err) {
+      // registration failed :(
+      console.log('ServiceWorker registration failed: ', err);
+    });
+  });
+}
+// serviceWorker
+
 });
