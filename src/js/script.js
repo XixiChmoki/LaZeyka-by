@@ -1,6 +1,6 @@
 $(function(){
-	// Progressive Web Apps
 
+	// Progressive Web Apps
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function() {
     navigator.serviceWorker.register('/sw.js').then(function(registration) {
@@ -46,15 +46,15 @@ if ('serviceWorker' in navigator) {
 	/* Время загрузки страницы Финиш */
 	
 	/* Google search Start*/
-	  (function() {
-    var cx = '006003387562024621562:qeuijazizle';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
+	//   (function() {
+  //   var cx = '006003387562024621562:qeuijazizle';
+  //   var gcse = document.createElement('script');
+  //   gcse.type = 'text/javascript';
+  //   gcse.async = true;
+  //   gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+  //   var s = document.getElementsByTagName('script')[0];
+  //   s.parentNode.insertBefore(gcse, s);
+  // })();
 	/* Google search Finish*/
 
 });
